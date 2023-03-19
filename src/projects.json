@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "pocket-cookbook",
+        "url": "https://jc6991.github.io/pocket-cookbook/",
+        "gitHubUrl": "https://github.com/JC6991/pocket-cookbook",
+        "imgUrl": "../assets/cookbook.png"
+
+    },
+    {
+        "id": 2,
+        "title": "team-generator",
+        "url": "This projects is a command-line application",
+        "gitHubUrl": "https://github.com/JC6991/team-profile-generator",
+        "imgUrl": "../assets/team-generator.png"
+
+    },
+    {
+        "id": 3,
+        "title": "code-quiz",
+        "url": "https://jc6991.github.io/code-quiz/",
+        "gitHubUrl": "https://github.com/JC6991/code-quiz",
+        "imgUrl": "../assets/quiz.png"
+
+    },
+    {
+        "id": 4,
+        "title": "readme-generator",
+        "url": "This project is run in the terminal.",
+        "gitHubUrl": "https://github.com/JC6991/readme-generator",
+        "imgUrl": "../assets/readme-generator.png"
+
+    },
+    {
+        "id": 5,
+        "title": "bootstrap-portfolio",
+        "url": "https://jc6991.github.io/Bootstrap-portfolio/",
+        "gitHubUrl": "https://github.com/JC6991/Bootstrap-portfolio",
+        "imgUrl": "../assets/bootstrap.png"
+
+    },
+    {
+        "id": 6,
+        "title": "password-generator",
+        "url": "https://jc6991.github.io/password-generator/",
+        "gitHubUrl": "https://github.com/JC6991/password-generator",
+        "imgUrl": "../assets/bootstrap.png"
+
+    }
+]
